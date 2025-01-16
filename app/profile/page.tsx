@@ -16,7 +16,9 @@ export default function Profile() {
       image: "https://blockdev.sgp1.cdn.digitaloceanspaces.com/event/e948db15-ef8b-4a29-859c-dc6fe4cdccb3.jpg",
       price: "0.1 ETH",
       totalTickets: 1000,
-      soldTickets: 867
+      soldTickets: 867,
+      description: "Join us for ETH Global London, the largest Ethereum hackathon in Europe! Connect with developers, entrepreneurs, and industry leaders in the heart of London's tech scene.",
+      revenue : '30'
     },
     {
       id: 2,
@@ -26,7 +28,9 @@ export default function Profile() {
       image: "https://blockdev.sgp1.cdn.digitaloceanspaces.com/event/67ae71c9-71f3-48d6-91cb-700379583640.jpg",
       price: "0.15 ETH",
       totalTickets: 500,
-      soldTickets: 479
+      soldTickets: 479,
+      description: "Join us for ETH Global London, the largest Ethereum hackathon in Europe! Connect with developers, entrepreneurs, and industry leaders in the heart of London's tech scene.",
+      revenue : '30'
     },
     {
       id: 3,
@@ -36,7 +40,9 @@ export default function Profile() {
       image: "https://firebasestorage.googleapis.com/v0/b/byscript-io.appspot.com/o/blockdev.jpg?alt=media&token=4c7a8fe0-4188-44c4-aa27-769fea3660eb",
       price: "0.08 ETH",
       totalTickets: 750,
-      soldTickets: 523
+      soldTickets: 523,
+      description: "Join us for ETH Global London, the largest Ethereum hackathon in Europe! Connect with developers, entrepreneurs, and industry leaders in the heart of London's tech scene.",
+      revenue : '30'
     }
   ]
 
